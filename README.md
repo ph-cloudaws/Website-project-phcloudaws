@@ -5,10 +5,10 @@
 
 2. **Uploaded the website files**  
    - Made sure `index.html` and other main files were in the root of the bucket  
-   ![Step 2 - Upload files](images/step2-upload.png)
+   ![Step 2 - Upload files](images/step2-bucket.png)
 
 3. **Configured public access**  
-   ![Step 3 - Permissions](images/step3-permissions.png)
+   ![Step 3 - Permissions](images/step3-bucket.png)
 
 4. **Tested the website in a browser**  
    - Initially it didn’t work because I uploaded the whole folder instead of just the files  
